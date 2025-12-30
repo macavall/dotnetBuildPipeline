@@ -9,7 +9,7 @@ on:
 
 env:
   AZURE_FUNCTIONAPP_NAME: 'testfunction5661fa'  # Your Function App name
-  AZURE_FUNCTIONAPP_RESOURCE_GROUP: 'your-resource-group'  # Replace with your resource group name
+  AZURE_FUNCTIONAPP_RESOURCE_GROUP: 'testfunction5661rg'  # Replace with your resource group name
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'     # Path to your function project root
   DOTNET_VERSION: '8.0.x'                 # .NET version to use
 
